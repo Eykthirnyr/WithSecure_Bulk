@@ -53,11 +53,11 @@ Export detailed hardware and system information of selected devices to a CSV fil
 - Python 3.x
 - `requests` (automatically installed if missing)
 
-### Contribution & Feedback
+## Contribution & Feedback
 
 This project was designed for IT administrators using WithSecure solutions. Contributions, issues, and feature requests are welcome.
 
-🔗 Made by Clément GHANEME (02/2025)
-Visit: [clement.business](https://clement.business/)
+- 🔗 Made by Clément GHANEME (02/2025)
+- Visit: [clement.business](https://clement.business/)
 
 
